@@ -5,4 +5,10 @@ https://github.com/cosmtrek/air/
 https://github.com/cosmtrek/air/issues
 
 ## App server
-https://github.com/labstack/echo
+https://gqlgen.com/getting-started/
+
+## Graphql
+https://graphql.org/learn/schema/
+
+## Auto generage from schemas file
+go generate ./...
